@@ -1,0 +1,2 @@
+# Germanic-Language-Phylogeny-Computational-Historical-Linguistics
+Implemented Felsenstein’s pruning algorithm in Python to evaluate 20 phylogenetic trees for 11 Germanic languages using cognate data. Modelled lexical evolution using glottochronological calibration, handled missing data, and analysed the effect of different evolutionary parameters on tree likelihoods.  Three-person project for the HL course at UU.
